@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/nginx-base/nginx:v1.22
+FROM k8s.gcr.io/mysql-base/mysql:v8.0.19
 LABEL MAINTAINER=master@weiyigeeek.top BUILDTYPE=Aliyun
